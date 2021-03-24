@@ -1,0 +1,8 @@
+Unit: Testing individual pieces of code to ensure they function
+
+FUNCTIONAL
+Regression: Testing to see if any new integration broke existing system behavior
+Smoke: Ensuring core/major functionality of the application is working as expected
+Sanity
+Re-Test
+System Integration
